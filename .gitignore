@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# vim files
+*~
+*.swp
+*.swo
+
+#git file
+.gitignore
+
+#compil files
+build/
